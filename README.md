@@ -24,3 +24,14 @@ This project analyses daily retail store sales and builds a time-series forecast
 
 ## 🚀 Tools Used
 Python, Pandas, Matplotlib, Scikit-Learn, XGBoost
+
+## 📷 Project Visualizations
+
+### 📈 Sales Trend
+![Sales Trend](sales_trend.png)
+
+### 🔮 7-Day Forecast
+![Forecast](forcast_plot.png)
+
+### 📉 Model Performance
+![Model](Model_performance.png)
