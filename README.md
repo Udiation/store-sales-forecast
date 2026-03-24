@@ -28,10 +28,10 @@ Python, Pandas, Matplotlib, Scikit-Learn, XGBoost
 ## 📷 Project Visualizations
 
 ### 📈 Sales Trend
-![Sales Trend](sales_trend.png)
+![Sales Trend](Sales_trend.png)
 
 ### 🔮 7-Day Forecast
-![Forecast](forcast_plot.png)
+![Forecast](Forcast_plot.png)
 
 ### 📉 Model Performance
 ![Model](Model_performance.png)
